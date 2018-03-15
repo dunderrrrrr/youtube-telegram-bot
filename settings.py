@@ -1,5 +1,3 @@
-#fhbot.py settings
-
 #youtube playlist id (uploads playlist)
 #generate from https://www.googleapis.com/youtube/v3/channels?id={CHANNEL ID}&key={API KEY}&part=contentDetails
 #copy from items > 0 > contentDetails > relatedPlaylists > uploads (example: "UUboMX_UNgaPBsUOIgasn3-Q")
