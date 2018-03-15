@@ -1,5 +1,5 @@
 # youtube-telegram-bot
-This Telegram bot will message your group when a youtube user uploads a video. It's all written in Python3.6. SQLAlchemy is used to store uploaded video data, such as title, date and the video id.
+This [Telegram](https://telegram.org/) bot will message your group when a youtube user uploads a video. It's all written in Python3.6. SQLAlchemy is used to store uploaded video data, such as title, date and the video id.
 
 You are going to have to generate a few apikeys to get this script working (the tricky part). See `settings.py` for more information.
 
