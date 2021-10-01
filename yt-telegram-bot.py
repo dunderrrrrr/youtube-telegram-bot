@@ -10,10 +10,10 @@ Session = sessionmaker(bind=engine)
 session = Session()
 
 def vidindb():
-    vids = []
+    videos = []
     for vid in session.query(vids):
-        vids.append(vid.v_id)
-    return(vids)
+        videos.append(vid.v_id)
+    return(videos)
 
 def dbinsert(title, id, date):
     vid = vids(title, id, date)
