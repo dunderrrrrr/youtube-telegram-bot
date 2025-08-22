@@ -1,6 +1,6 @@
 certifi==2018.1.18
 chardet==3.0.4
-future==0.16.0
+future==1.0.0
 idna==2.6
 requests==2.20.0
 SQLAlchemy==1.2.5
